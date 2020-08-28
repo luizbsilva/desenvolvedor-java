@@ -29,8 +29,8 @@ Conectar Container a rede criada
  
 Se já tiver o postgres Instalado criar o banco  com o seguinte nome desafio_sura
 
-git clone https://github.com/luizbsilva/sura_seguros_desafio.git
-cd sura_seguros_desafio
+git clone https://github.com/luizbsilva/desenvolvedor-java.git
+cd desenvolvedor-java
 mvn spring-boot:run
 Acesse os endpoints através da url http://localhost:8080
 ```
