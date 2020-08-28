@@ -1,0 +1,1 @@
+ INSERT INTO public.cliente (id, admin, cpf, email, bairro, cep, cidade, estado, rua, nome, tipo, senha, data_atualizacao, data_criacao) VALUES (1, true, '300.300.300-30','admin@suralocaldomaim.com', 'Central', '74000-000', 'Goiania', 'GO', 'Rua 01', 'Admin', 'ROLE_ADMIN', '$2a$06$xIvBeNRfS65L1N17I7JzgefzxEuLAL0Xk0wFAgIkoNqu9WD6rmp4m', '2020-08-25', '2020-08-25')
